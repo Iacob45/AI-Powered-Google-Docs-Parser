@@ -1,0 +1,1 @@
+In fisierul dump.rdb este un backup complet al bazei de date Redis.
